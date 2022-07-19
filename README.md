@@ -3,7 +3,6 @@
 ## 界面展示：
  ![image](https://github.com/paperfly2022/paper-ssm-crud2022/blob/master/%E5%9B%BE%E7%89%871.png)
 
-
 ## 功能：
 
 * 分页
